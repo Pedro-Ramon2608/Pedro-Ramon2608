@@ -12,6 +12,8 @@ Me
 
 #
 
+### My States
+
 <p>
   <img 
     align="left" 
@@ -30,7 +32,7 @@ Me
 
 #
 
-###
+### 🛠️ Language and Tools
 
 <div data-importer="techs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" style="padding-right: 10px"/>
@@ -52,7 +54,7 @@ Me
 <div data-importer="socials" align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ramon2608)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorfariasljesus@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrorfariasdejesus@gmail.com)
   
 </div>
 

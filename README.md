@@ -34,7 +34,7 @@ Mais uma vez, seja muito bem-vindo ao meu perfil! Fique à vontade para conhecer
 <img
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Pedro-Ramon2608&hide=TeX,Cython,PowerShell&layout=compact&custom_title=Stack&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Pedro-Ramon2608&hide=TeX,Cython,PowerShell&cache_seconds=0&layout=compact&custom_title=My+Languages+Stats&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 </p>
 

@@ -8,15 +8,15 @@
 
 ### About
 
-Me chamo Pedro Ramon, tenho 19 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Fatec Zona Sul.
+My name is Pedro Ramon, I'm 19 years old, and I'm a Systems Analysis and Development student at Fatec Zona Sul.
 
-Sou desenvolvedor de software com foco em Backend, tendo Java como minha principal stack. Atualmente, estou me aprofundando cada vez mais na linguagem e ampliando meus conhecimentos em bancos de dados relacionais, como PostgreSQL, MySQL e SQLite, além de estudar Spring Boot. Para o desenvolvimento em Java, minha principal ferramenta é o IntelliJ IDEA.
+I'm a software developer focused on Backend, with Java as my main stack. Currently, I'm diving deeper into the language and expanding my knowledge of relational databases like PostgreSQL, MySQL, and SQLite, alongside studying Spring Boot. For Java development, my main tool is the IntelliJ IDEA.
 
-Também possuo conhecimentos em Python, Flask, JavaScript, HTML e CSS.
+I also have experience with Python, Flask, JavaScript, HTML and CSS.
 
-Além da programação tradicional, também venho desenvolvendo habilidades para programar com o auxílio de ferramentas de Inteligência Artificial, como Claude Code, Gemini e ChatGPT. Futuramente, pretendo ampliar ainda mais esses conhecimentos, explorando o desenvolvimento com Agentes de IA e ferramentas como o Antigravity.
+Beyond traditional development, I'm also expanding my skills in AI-assistance programming using tools like Claude Code, Gemini, and ChatGPT. In the future, I plan to further expand my knowledge by exploring the development with AI Agents and tools like Antigravity. 
 
-Mais uma vez, seja muito bem-vindo ao meu perfil! Fique à vontade para conhecer meus projetos, interagir, criar forks, clonar meus repositórios e, quem sabe, aprender junto comigo nessa jornada. 🚀
+Once again, welcome to my profile! Feel free to explore my projects, interact, create forks, clone my repositories, and who knows, learn together with me on this journey. 🚀
 
 #
 
